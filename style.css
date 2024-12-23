@@ -1,0 +1,58 @@
+html {
+    background-color:bisque;
+}
+
+#title {
+    text-align: center;
+    background-color:cornsilk;
+    border-radius: 50px;
+    border-style: solid;
+    width: 500px;
+}
+
+#timer-box {
+    text-align: center;
+    text-size-adjust: inherit;
+    background-color:cornsilk;
+    border-radius: 50px;
+    border-style: solid;
+    margin: 50px;
+    height: 200px;
+    width: 200px;
+    font-size: 30px;
+
+}
+
+footer {
+    align-items: end;
+    float:  inline-start;
+    font-style: italic;
+    margin-top: 275px;
+}
+
+#timer {
+    color: crimson;
+}
+#name-text {
+    color:tomato;
+    font-size: 50px;
+    text-size-adjust:inherit
+}
+
+#slogan-text {
+    font-size: 25px;
+    font-style: italic;
+}
+
+#action-text {
+    font-style:italic;
+
+}
+
+button {
+    height: 100px;
+    width: 200px;
+    border-radius: 50px;
+    font-size: 25px;
+    background-color: white;
+}
